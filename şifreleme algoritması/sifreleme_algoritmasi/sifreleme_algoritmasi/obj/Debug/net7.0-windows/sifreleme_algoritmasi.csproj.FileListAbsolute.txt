@@ -1,0 +1,16 @@
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\bin\Debug\net7.0-windows\sifreleme_algoritmasi.exe
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\bin\Debug\net7.0-windows\sifreleme_algoritmasi.deps.json
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\bin\Debug\net7.0-windows\sifreleme_algoritmasi.runtimeconfig.json
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\bin\Debug\net7.0-windows\sifreleme_algoritmasi.dll
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\bin\Debug\net7.0-windows\sifreleme_algoritmasi.pdb
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.Form1.resources
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.csproj.GenerateResource.cache
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.AssemblyInfoInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.AssemblyInfo.cs
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.dll
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\refint\sifreleme_algoritmasi.dll
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.pdb
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\sifreleme_algoritmasi.genruntimeconfig.cache
+C:\Users\merve\OneDrive\Masaüstü\şifreleme algoritması\sifreleme_algoritmasi\sifreleme_algoritmasi\obj\Debug\net7.0-windows\ref\sifreleme_algoritmasi.dll
